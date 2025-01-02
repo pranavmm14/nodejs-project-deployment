@@ -1,2 +1,3 @@
 console.log("Hello World!");
-alert("Hello !");
+document.write("Hello !");
+
